@@ -6,7 +6,7 @@ Data displayed by most websites can only be viewed using a web browser. They do 
 
 ## Motivation:
 
-On July 21, 2017, the New York Times updated an opinion article called [Trump's Lies](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html), detailing every public lie the President has told since taking office. Because this is a newspaper, the information was (of course) published as a block of text.This is a great format for human consumption, but it can't easily be understood by a computer. In this tutorial, we'll extract the President's lies from the New York Times article and store them in a structured dataset.
+On July 21, 2017, the New York Times updated an opinion article called [Trump's Lies](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html), detailing every public lie the President has told since taking office. Because this is a newspaper, the information was (of course) published as a block of text.This is a great format for human consumption, but it can't easily be understood by a computer. In this tutorial, we'll extract the President's lies from the [New York Times article](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html) and store them in a structured [dataset](https://github.com/mohamed8adbib/Web-scraping/blob/master/Trump%20lies.csv).
 
 ## Outline of the tutorial:
 
